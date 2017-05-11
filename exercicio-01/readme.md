@@ -2,7 +2,7 @@
 
 Montar um pequeno site em html com um texto de Machado de Asis.
 
-Abra o pdf chamado mact01.pdf. Nele, encontra-se um texto de Machado de Asis (http://machado.mec.gov.br/images/stories/pdf/critica/mact01.pdf). Leia e após ter uma ideia do que se trata o texto e como ele é organizado, faça:
+Abra o pdf chamado mact01.pdf. Nele, encontra-se um texto de Machado de Asis (http://machado.mec.gov.br/images/stories/pdf/critica/mact01.pdf). Leia superficialmente e após ter uma ideia do que se trata o texto e como ele é organizado, faça:
 
 1. Crie uma pasta com o nome machado-de-assis.
 2. Dentro da pasta, crie um arquivo chamado index.html.
