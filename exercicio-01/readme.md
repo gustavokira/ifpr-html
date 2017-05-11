@@ -7,11 +7,11 @@ Abra o pdf chamado mact01.pdf. Nele, encontra-se um texto de Machado de Asis (ht
 1. Crie uma pasta com o nome machado-de-assis.
 2. Dentro da pasta, crie um arquivo chamado index.html.
 3. Copie o texto do pdf e construa uma página html. Lembre-se de usar as tags corretas:
-	* <html></html>
-	* <head></head>
-	* <body></body>
-	* <h1></h1>
-	* <h2></h2>
+	* &lt;html></html>
+	* &lt;head></head>
+	* &lt;body></body>
+	* &lt;h1></h1>
+	* &lt;h2></h2>
 4. Descubra o que faz as seguintes tags:
 	* <br/>
 	* <b></b>
