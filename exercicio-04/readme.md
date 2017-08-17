@@ -18,7 +18,3 @@ nos sites dos colegas:
 11) vá até a barra de network (rede) e depois navegue até o site de um dos colegas.
 12) veja o que aparece nessa tela.
 13) faça o mesmo para outros sites da internet.
-
-14) acessar pelo celular.
-
-15) php!!!!
